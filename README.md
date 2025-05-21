@@ -1,1 +1,1 @@
-# random_texts
+# Random Texts
